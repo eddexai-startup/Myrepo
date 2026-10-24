@@ -1,0 +1,6 @@
+{
+  "name": "Onshore Roofing — Architectural Roofing & Restoration Demo",
+  "description": "Premium digital proposal and interactive website concept for Onshore Roofing, featuring bespoke visual identity, material visualizer, interactive scope estimator, and project gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
